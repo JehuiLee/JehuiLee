@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Jehui Lee who is interested in embedded programming !
+차량 제어기용 Embedded SW 플랫폼 개발자가 되고자 나아가는 중입니다!
 
 ### 🔭 I’m currently working on
 - Arduino
@@ -10,6 +10,11 @@ I'm Jehui Lee who is interested in embedded programming !
 - ECU (Electronic Control Unit)
 - CAN (Controller Area Network)
 - [<img src="https://img.shields.io/badge/f1-E10600?style=for-the-badge&logo=f1&logoColor=white">](https://www.formula1.com/en/racing/2024)
+
+### 📌 Projects
+- Backend - [커카(Quokka)](https://github.com/pknu-wap/Quokka): 부경대학교 학생들을 위한 심부름 서비스 앱 커카
+- Embedded (ESP32) - [멀미 방지 선실(Gyro)](https://github.com/wkdghdwns199/gyroscope-boat-room): 자이로 센서를 활용한 멀미 방지 선실
+- Embedded (Raspberry Pi) - [플랜드(Priend)](https://github.com/pknu-wap/PRIEND_Embedded): 양방향 소통 AI 기능을 부가한 스마트 화분
 
 ## Stack
 <h3 align="center">✨ Tech Stack ✨</h3>
