@@ -9,7 +9,7 @@
 - AUTOSAR
 - ECU (Electronic Control Unit)
 - CAN (Controller Area Network)
-- [<img src="https://img.shields.io/badge/f1-E10600?style=for-the-badge&logo=f1&logoColor=white">](https://www.formula1.com/en/latest/article/fia-and-formula-1-announces-calendar-for-2025.48ii9hOMGxuOJnjLgpA5qS)
+- [<img src="https://img.shields.io/badge/f1-E10600?style=for-the-badge&logo=f1&logoColor=white">](https://www.formula1.com/en/racing/2025)
 
 ### 📌 Projects
 - Backend - [커카(Quokka)](https://github.com/pknu-wap/Quokka): 부경대학교 학생들을 위한 심부름 서비스 앱 커카
