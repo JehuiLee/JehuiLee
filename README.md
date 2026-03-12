@@ -2,14 +2,22 @@
 차량 MCU Embedded SW 개발자가 되고자 나아가는 중입니다!
 
 ### 🔭 I’m currently working on
-- Arduino
-- Raspberry Pi
+- BSW
+- SW Testing
+- ASW
 
 ### 🤔 I'm interested in
-- AUTOSAR
-- ECU (Electronic Control Unit)
+- BSW
 - CAN (Controller Area Network)
 - [<img src="https://img.shields.io/badge/f1-E10600?style=for-the-badge&logo=f1&logoColor=white">](https://www.formula1.com/en/racing/2026)
+
+### 🚗 Experiences
+- WAP (PKNU Programming Club)
+  - 2024.03 ~ 2025.12
+- Mobius Boot camp (Hyundai Mobis)
+  - 2025.09 ~
+- Intelligent Vehicle School 5th (HL Mando & HL Klemove)
+  - 2025.12 ~
 
 ### 📌 Projects
 - Backend - [커카(Quokka)](https://github.com/pknu-wap/Quokka): 부경대학교 학생들을 위한 심부름 서비스 앱 커카
