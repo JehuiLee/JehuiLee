@@ -15,7 +15,7 @@
 - WAP (PKNU Programming Club)
   - 2024.03 ~ 2025.12
 - Mobius Boot camp (Hyundai Mobis)
-  - 2025.09 ~
+  - 2025.09 ~ 2026.03
 - Intelligent Vehicle School 5th (HL Mando & HL Klemove)
   - 2025.12 ~
 
