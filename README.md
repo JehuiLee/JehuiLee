@@ -2,28 +2,31 @@
 차량 MCU Embedded SW 개발자가 되고자 나아가는 중입니다!
 
 ### 🔭 I’m currently working on
+- ASW
 - BSW
 - SW Testing
-- ASW
 
 ### 🤔 I'm interested in
 - BSW
-- CAN (Controller Area Network)
+- AUTOSAR
+- ASPICE
 - [<img src="https://img.shields.io/badge/f1-E10600?style=for-the-badge&logo=f1&logoColor=white">](https://www.formula1.com/en/racing/2026)
 
 ### 🚗 Experiences
 - WAP (PKNU Programming Club)
   - 2024.03 ~ 2025.12
-- Mobius Boot camp (Hyundai Mobis)
+- Mobius Bootcamp 1st (Hyundai Mobis)
   - 2025.09 ~ 2026.03
 - Intelligent Vehicle School 5th (HL Mando & HL Klemove)
-  - 2025.12 ~
+  - 2025.12 ~ 2026.04
 
 ### 📌 Projects
 - Backend - [커카(Quokka)](https://github.com/pknu-wap/Quokka): 부경대학교 학생들을 위한 심부름 서비스 앱 커카
 - Embedded (ESP32) - [멀미 방지 선실(Gyro)](https://github.com/wkdghdwns199/gyroscope-boat-room): 자이로 센서를 활용한 멀미 방지 선실
 - Embedded (Raspberry Pi) - [플랜드(Priend)](https://github.com/pknu-wap/PRIEND_Embedded): 양방향 소통 AI 기능을 부가한 스마트 화분
 - Embedded (Jetson Nano) - [캡스톤 디자인 AKA](https://github.com/orgs/Capstone-AKA/repositories): 객체 인식 기반 무인 결제 시스템
+- Automotive - OTA 를 위한 Bootloader 설계 및 SW Binary 위변조 감지의 이해
+- Automotive - 자동화 테스팅을 통한 Black Box Testing 및 검증의 이해
 
 ## Skills
 <h3 align="center">✨ Tech Stack ✨</h3>
